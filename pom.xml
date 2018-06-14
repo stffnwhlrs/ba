@@ -86,6 +86,11 @@ under the License.
             <artifactId>commons-logging</artifactId>
             <version>1.2</version>
         </dependency>
+		<dependency>
+			<groupId>pl.zankowski</groupId>
+			<artifactId>iextrading4j-all</artifactId>
+			<version>LATEST</version>
+		</dependency>
 
 		<!-- Add connector dependencies here. They must be in the default scope (compile). -->
 

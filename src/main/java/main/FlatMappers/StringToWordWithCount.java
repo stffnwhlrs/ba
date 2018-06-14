@@ -1,7 +1,6 @@
 package main.FlatMappers;
 
 import main.POJOs.WordWithCount;
-import main.tests.SocketWindowWordCount;
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;
 

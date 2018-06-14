@@ -1,7 +1,6 @@
 package main.Reducers;
 
 import main.POJOs.WordWithCount;
-import main.tests.SocketWindowWordCount;
 import org.apache.flink.api.common.functions.ReduceFunction;
 
 public class CumWordWithCount implements ReduceFunction<WordWithCount> {
